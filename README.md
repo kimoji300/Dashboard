@@ -22,3 +22,16 @@ A modern, responsive landing page designed as part of a frontend internship proj
 - Responsive Design (Media Queries)
 
 
+
+- JavaScript
+Mobile Menu Toggle: Opens/closes hamburger menu on small screens.
+- Scroll Navigation Highlighting: Highlights nav links as you scroll through sections.
+- Scroll-triggered Animations: Uses `IntersectionObserver` for fade-in effects.
+- Stat Counter Animations: Animates numbers in the about/stats section.
+- Contact Form Handling: Handles form submission, validation, and visual feedback.
+- Hover Effects: Subtle elevation for cards on mouse enter.
+- Typing Effect: Adds typewriter animation in the hero section.
+- Parallax Hero Animation: Moves visual elements based on scroll offset.
+- Smooth Scroll Navigation: For internal links with animated scroll.
+- Form Submit Loader: Adds spinner and disables button during submission.
+
